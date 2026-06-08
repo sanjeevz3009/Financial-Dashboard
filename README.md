@@ -183,14 +183,14 @@ This project was built to:
 -Implement authentication and authorization
 -Refresh and deepen React knowledge
 
-## 📚 Resources
+## Resources
 
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Next.js Learn Course](https://nextjs.org/learn)
 - [React Documentation](https://react.dev)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
-## 📝 License
+## License
 
 This project is for educational purposes.
 
