@@ -177,11 +177,12 @@ The application uses the following main entities:
 ## Learning Journey
 
 This project was built to:
--Learn Next.js 15 with App Router
--Understand Server Components and Server Actions
--React patterns and best practices
--Implement authentication and authorization
--Refresh and deepen React knowledge
+
+- Learn Next.js 15 with App Router
+- Understand Server Components and Server Actions
+- React patterns and best practices
+- Implement authentication and authorization
+- Refresh and deepen React knowledge
 
 ## Resources
 
