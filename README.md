@@ -1,4 +1,4 @@
-# 📊 Financial Dashboard - Next.js Learning Project
+# Financial Dashboard - Next.js Learning Project
 
 A financial dashboard application built with Next.js, featuring invoice management, and customer tracking. This project was created as part of the [Next.js Learn Course](https://nextjs.org/learn/) to learn modern React and Next.js concepts.
 
